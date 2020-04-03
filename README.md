@@ -1,2 +1,2 @@
 # vGuard - Modular Respirator
-![Design](assets/Respirator v10.png)
+![Design](https://raw.githubusercontent.com/hackorona/vGuard/master/assets/Respirator%20v10.jpg)
