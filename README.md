@@ -1,24 +1,6 @@
 # vGuard - Modular Respirator
 ![Design](https://raw.githubusercontent.com/hackorona/vGuard/master/assets/images/Respirator%20v10.jpg)
 
-## Why Mask?
-
-In December 2019, the COVID-19 outbreak started in Wuhan province, China, caused a crisis around the wrold.
-Since then, many company's and laboratories around the world trying to develop a treatment for people that got infected by the covid-19 virus. Problem is, this solutions will take a long time to develop and test before we can use them. 
-In our opinion, by the time some of them will be able to produce a treatment, it might be too late. 
-Hence, we need to find a way to handle the situation in the immediate term, or at least decrease and postpone it until such treatment will be available.
-
-here are two parameters we need to take into account: the number of infected people, and the number of available hospital capacity to treat people. 
-
-When we observed the disease status around the world, we discovered few things:
-- There is a corelation between the number of infected people and the number of infected people that need a hospital care.
-- The number of infected people is a lot grater then the health care capacity.
-
-We deduced that making / purchasing ventilators, and creating more hospital beds will only delay slightly the outbreak, due to the complexity of achieving both of these task. 
-In our opinion, the best solution is to **avoid getting infected & avoiding infecting others!** 
-There are two main way's to achieve this goal: **social distancing & wearing protection**. 
-We are all practising social distancing, but unfortunately, not all of us wearing protection (due to shortage or because they lake to understand their merits).
-
 ## Mask Features
 
 We designed the respirator with health care __physicians__ in mind, but kept it __simple__ so it will be suitable to be used by most of the population. 
@@ -57,6 +39,24 @@ You can find detailed manufacturing and build instruction throughout each direct
   - **Models folder**: contain all the models and instruction for manufacturing using computerized manufacturing methods.
   - **Schematics folder**: contain all the schematics and manufacturing methud priorty using manual manufacturing methods.
 - **BOM**: contain bill of materials for the best possible outcome, all the parts in here can be manufactured as well.
+
+## Why Mask?
+
+In December 2019, the COVID-19 outbreak started in Wuhan province, China, caused a crisis around the wrold.
+Since then, many company's and laboratories around the world trying to develop a treatment for people that got infected by the covid-19 virus. Problem is, this solutions will take a long time to develop and test before we can use them. 
+In our opinion, by the time some of them will be able to produce a treatment, it might be too late. 
+Hence, we need to find a way to handle the situation in the immediate term, or at least decrease and postpone it until such treatment will be available.
+
+here are two parameters we need to take into account: the number of infected people, and the number of available hospital capacity to treat people. 
+
+When we observed the disease status around the world, we discovered few things:
+- There is a corelation between the number of infected people and the number of infected people that need a hospital care.
+- The number of infected people is a lot grater then the health care capacity.
+
+We deduced that making / purchasing ventilators, and creating more hospital beds will only delay slightly the outbreak, due to the complexity of achieving both of these task. 
+In our opinion, the best solution is to **avoid getting infected & avoiding infecting others!** 
+There are two main way's to achieve this goal: **social distancing & wearing protection**. 
+We are all practising social distancing, but unfortunately, not all of us wearing protection (due to shortage or because they lake to understand their merits).
 
 ## Wearing Protection
 
