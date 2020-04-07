@@ -19,21 +19,6 @@ In our opinion, the best solution is to **avoid getting infected & avoiding infe
 There are two main way's to achieve this goal: **social distancing & wearing protection**. 
 We are all practising social distancing, but unfortunately, not all of us wearing protection (due to shortage or because they lake to understand their merits).
 
-
-## Wearing Protection
-
-We define how contagious an infectious disease is, by observing the number of people who will get infected on average from one contagious person. We denote this value R0.
-- If R0 is less than 1, each existing infection causes less than one new infection. In this case, the disease will decline and eventually die out.
-- If R0 equals 1, each existing infection causes one new infection. The disease will stay alive and stable, but there won’t be an outbreak or an epidemic.
-- If R0 is more than 1, each existing infection causes more than one new infection. The disease will spread between people, and there may be an outbreak or epidemic.
-
-he R0 value of flu is 1.3, the R0 value of covid-19 is 2 - 2.5. It might not seems much, but take a look at this following prediction. After 10 rounds of infection, the flu virus can infect around 56 people, after the same number of rounds, the covid-19 virus will infect about 2,047 people!  
-Moreover, in contrary to the flu, nobody have antibodies against covid-19 yet, which means there is nothing stopping it from infecting more people. 
-Furthermore, covid-19 symptom's can appear two weeks after one was infected, causing him to infect much more people. 
-
-Wearing proper protection can prevent spreading the infection. More impressively, research shows that wearing a simple cloth as a mask can lower the R0 value by a third!. 
-Hence, we decided to design a mask to help reduce the disease reproduction value to 0, in conjunction to protecting health care physicians.
-
 ## Mask Features
 
 We designed the respirator with health care __physicians__ in mind, but kept it __simple__ so it will be suitable to be used by most of the population. 
@@ -66,6 +51,26 @@ due to its modular design, the mask can be sanitized separately without the filt
 ## Build Instructions
 
 You can find detailed manufacturing and build instruction throughout each directory in this repository.
+
+### Table of Contents
+- **Assets**
+  - **Models folder**: contain all the models and instruction for manufacturing using computerized manufacturing methods.
+  - **Schematics folder**: contain all the schematics and manufacturing methud priorty using manual manufacturing methods.
+- **BOM**: contain bill of materials for the best possible outcome, all the parts in here can be manufactured as well.
+
+## Wearing Protection
+
+We define how contagious an infectious disease is, by observing the number of people who will get infected on average from one contagious person. We denote this value R0.
+- If R0 is less than 1, each existing infection causes less than one new infection. In this case, the disease will decline and eventually die out.
+- If R0 equals 1, each existing infection causes one new infection. The disease will stay alive and stable, but there won’t be an outbreak or an epidemic.
+- If R0 is more than 1, each existing infection causes more than one new infection. The disease will spread between people, and there may be an outbreak or epidemic.
+
+he R0 value of flu is 1.3, the R0 value of covid-19 is 2 - 2.5. It might not seems much, but take a look at this following prediction. After 10 rounds of infection, the flu virus can infect around 56 people, after the same number of rounds, the covid-19 virus will infect about 2,047 people!  
+Moreover, in contrary to the flu, nobody have antibodies against covid-19 yet, which means there is nothing stopping it from infecting more people. 
+Furthermore, covid-19 symptom's can appear two weeks after one was infected, causing him to infect much more people. 
+
+Wearing proper protection can prevent spreading the infection. More impressively, research shows that wearing a simple cloth as a mask can lower the R0 value by a third!. 
+Hence, we decided to design a mask to help reduce the disease reproduction value to 0, in conjunction to protecting health care physicians.
 
 ## DISCLAIMER
 
